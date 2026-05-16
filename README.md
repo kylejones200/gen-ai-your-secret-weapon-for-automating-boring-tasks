@@ -1,7 +1,7 @@
 # Gen AI Your Secret Weapon for Automating Boring Tasks
 
-**Published:** 2023-10-27
-**Medium:** [https://medium.com/@kyle-t-jones/gen-ai-your-secret-weapon-for-automating-boring-tasks-4a1a355fe085](https://medium.com/@kyle-t-jones/gen-ai-your-secret-weapon-for-automating-boring-tasks-4a1a355fe085)
+Published: 2023-10-27
+Medium: [https://medium.com/@kyle-t-jones/gen-ai-your-secret-weapon-for-automating-boring-tasks-4a1a355fe085](https://medium.com/@kyle-t-jones/gen-ai-your-secret-weapon-for-automating-boring-tasks-4a1a355fe085)
 
 ## About
 
